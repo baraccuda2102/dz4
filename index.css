@@ -1,33 +1,31 @@
 .block1{
-    border: 4px;
+    float: inline-start;
+    border: 6px;
     width: 200px;
     height: 226px;
-    background-color: darkgray;
+    background-color: rgb(202, 97, 97);
     text-align: center;
 }
 
 .block2{
-    border: 4px;
+    border: 6px;
     width: 200px;
     height: 226px;
-    background-color: darkgray;
-    text-align: center;
-
-    
+    float: right ;
+    background-color: rgb(155, 52, 52);
+    text-align: center;    
 }
+
 
 .block3{
-    border: 4px;
+    border: 6px;
     width: 200px;
     height: 226px;
-    background-color: darkgray;
+    background-color: rgb(161, 14, 14);
     text-align: center;
     
 }
 
-.img .block3{
-    border-style: none;
-}
 
 
 
