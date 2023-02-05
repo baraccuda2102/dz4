@@ -22,8 +22,11 @@
     height: 226px;
     background-color: darkgray;
     text-align: center;
-    mask-image: url(/images/111.jpg);
     
+}
+
+.img .block3{
+    border-style: none;
 }
 
 
